@@ -2,7 +2,6 @@
 <h3 align="center">A student of computer science from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFxcWdpem5sMHJxMGlucTRkdmRkMDdoMHgxbWdkZjR6b2IwYW5udiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
