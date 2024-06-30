@@ -2,7 +2,10 @@
 <h3 align="center">A student of computer science from Poland</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFxcWdpem5sMHJxMGlucTRkdmRkMDdoMHgxbWdkZjR6b2IwYW5udiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif">
 
-
+<h3 align="left">Play my games:</h3>
+<p align="left">
+  <a href="https://dbarans.itch.io/" target="blank"><img align="center" src="https://static.itch.io/images/app-icon.svg" alt="dbarans.itch.io" height="30" width="40" /></a>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/baranskidominik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baranskidominik" height="30" width="40" /></a>
