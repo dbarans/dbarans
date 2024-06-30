@@ -5,8 +5,9 @@
 <h3 align="left">Play my games:</h3>
 <p align="left">
   <a href="https://dbarans.itch.io/" target="blank"><img align="center" src="https://static.itch.io/images/app-icon.svg" alt="dbarans.itch.io" height="30" width="40" /></a>
-  <a><iframe frameborder="0" src="https://itch.io/embed/2633017" width="552" height="167"><a href="https://dbarans.itch.io/figandhunt">Fig &amp; Hunt by dbarans</a></iframe></a>
+  <a></a>
 </p>
+<iframe frameborder="0" src="https://itch.io/embed/2633017" width="552" height="167"><a href="https://dbarans.itch.io/figandhunt">Fig &amp; Hunt by dbarans</a></iframe>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/baranskidominik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baranskidominik" height="30" width="40" /></a>
